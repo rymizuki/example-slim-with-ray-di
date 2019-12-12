@@ -1,0 +1,15 @@
+{
+  "name": "rymizuki/example-slim-with-ray-di",
+  "description": "a example for Slim with Ray.Di",
+  "autoload": {
+      "psr-4": {
+          "Example\\": "src/"
+      }
+  },
+  "require": {
+    "ray/di": "^2.10",
+    "slim/slim": "4.3.0",
+    "slim/psr7": "^0.6.0",
+    "predis/predis": "^1.1"
+  }
+}
