@@ -9,7 +9,7 @@
   "require": {
     "ray/di": "^2.10",
     "slim/slim": "4.3.0",
-    "slim/psr7": "^0.6.0",
+    "slim/psr7": "^1.6.1",
     "predis/predis": "^1.1"
   }
 }
